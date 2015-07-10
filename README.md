@@ -1,4 +1,4 @@
-# ExperianTranslations
+# ExperianTranslations [![Build Status](https://travis-ci.org/damien/experian_translations.svg?branch=master)](https://travis-ci.org/damien/experian_translations) [![Code Climate](https://codeclimate.com/github/damien/experian_translations/badges/gpa.svg)](https://codeclimate.com/github/damien/experian_translations) [![Test Coverage](https://codeclimate.com/github/damien/experian_translations/badges/coverage.svg)](https://codeclimate.com/github/damien/experian_translations/coverage)
 
 Mappings for field values found within Experian credit report XML files.
 
